@@ -1,0 +1,4 @@
+﻿  Blackjack.cpp
+c:\users\nicek\documents\практика в c++\blackjack\blackjack\blackjack.cpp(220): warning C4715: playBlackjack: значение возвращается не при всех путях выполнения
+c:\users\nicek\documents\практика в c++\blackjack\blackjack\blackjack.cpp(86): warning C4715: Card::getCardValue: значение возвращается не при всех путях выполнения
+  Blackjack.vcxproj -> C:\Users\NiceK\Documents\Практика в C++\Blackjack\Debug\Blackjack.exe
